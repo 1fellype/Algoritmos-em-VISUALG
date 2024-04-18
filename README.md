@@ -2,7 +2,11 @@
 
  ![preview](./.github/preview.gif)
  
- - **Exercícios de Lógica de Programação que envolvem:** Tipos de Dados, Operações aritméticas, Estruturas de controle e Laços de repetição.
+ - **Exercícios de Lógica de Programação que envolvem:** 
+    - Tipos de Dados 
+    - Operações aritméticas 
+    - Estruturas de controle 
+    - Laços de repetição.
 
  - Exercícios realizados durante o curso PROPROFISSÃO.
 
