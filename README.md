@@ -7,7 +7,6 @@
     - Operações aritméticas 
     - Estruturas de controle 
     - Laços de repetição.
-
  - Exercícios realizados durante o curso PROPROFISSÃO.
 
 ## Tecnologias
